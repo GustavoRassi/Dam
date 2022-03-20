@@ -142,7 +142,7 @@ void programHeader()
 {
     cout << "WELCOME TO THE DIKE CALCULATOR" << endl;
     cout << endl;
-	cout << "This program is designed to calculate the area of a dike." << endl;
+    cout << "This program is designed to calculate the area of a dike." << endl;
     cout << "That said, the program calculates it, given the base and vertex" << endl;
     cout << "by the user." << endl;
     cout << endl;
