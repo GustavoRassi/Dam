@@ -1,6 +1,6 @@
 # Dike Calculator
-* Find out the angle that collects the most water in the case of a river, lake or related.
+* Given the base and vertex, the program calculates the area of a dike for every angle and identifies the angles that collects most water.
 # What I learned
-* Organize information in a more understandable way
-* Recycle lines of code like functions and be as efficient as possible
-* New calculations and how to code them
+* Organize information in a more understandable way.
+* Recycle lines of code like functions to be as efficient as possible and save memory.
+* New calculations and how to code them.
